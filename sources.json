@@ -3,6 +3,8 @@
         "url": "https://github.com/fabiorogeriosj/startbootstrap-new-age",
         "key": "new-age-app",
         "name": "New Age App",
-        "description": "A web app landing page theme created by Start Bootstrap"
+        "description": "A web app landing page theme created by Start Bootstrap",
+        "preview": "https://raw.githubusercontent.com/fabiorogeriosj/startbootstrap-new-age/master/new-age.jpg",
+        "demo": "http://fabiorogeriosj.com.br/startbootstrap-new-age"
     }
 ]
